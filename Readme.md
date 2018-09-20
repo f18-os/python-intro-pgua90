@@ -16,7 +16,7 @@ Collaborated with: Sebastian Nunez, in we discussed the understanding on the log
 Resources used:
 * Used Dr. Freudenthal's source code as reference for my code.
 * Used the following sites:
-    * https://www.guru99.com/reading-and-writing-files-in-python.html#3
-    * https://www.tutorialspoint.com/python/index.htm
-    * https://www.afterhoursprogramming.com/tutorial/python/python-overview/
-    * 
+    * https://www.guru99.com/reading-and-writing-files-in-python.html#3 - (Site was used as reference and guidence in the implementation of reading and writing both input and output files respectively, of which I used a more efficient way to open the file so as to not worry about closing the file as well).
+    * https://www.tutorialspoint.com/python/index.htm - (Used site as an insight on the logic of Python and how to code with it, whilst using the visuals as practice and implementing some of the functions for Python in my code, such as the use of input and output of the files).
+    * https://www.afterhoursprogramming.com/tutorial/python/python-overview/ - (This site simply provided more information and step-by-step processes as to what Python is and its logic, of which I used its resources to practice on coding in Python).
+  
