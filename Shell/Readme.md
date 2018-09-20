@@ -3,12 +3,7 @@ Shell Lab
 
 Project Description
 
-The assignment consisted of the student to become familiar with Shells and how to create Shell scripts with Python. The lab assigned 
-
-Testing Description
-Using the professor's source code as reference, I decided to use the part concerning the input of the text files, both input and output files. With this, what is used as a Dictionary, with the variable name "wordList", which would keep the list of words obtained from teh text file.
-Used as well from the reference code, I had the file read, in the format of being read line by line and split between whitespaces. For each text found, text that excluded upper-cased text and removed non-alphabetic characters from the text found. An if-statement was created so as to count the number of occurrences of that text were to be found within the file, with a default number of 1, if occurrence of the text was only once. The list of words were then sorted and another file was created in order to store the newly added list of words, each with their respective number of occurrences.
-
+The assignment consisted of the student to become familiar with Shells and how to create Shell scripts with Python. The lab assigned consisted of the creating a prompt in which the user is to be able to add a command along with its arguements, where the Shell is took take this input and be able to perform simple commands, background processes, and pipes. The shell was to be able redirect inputs and outputs and use all posix calls that were assigned for the Shell to perform.
 
 This assignment was prepared in a manner consistent with the instructor's requirements. All significant collaboration or guidance from external sources is clearly documented.
 Resources used:
